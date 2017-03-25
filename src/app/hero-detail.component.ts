@@ -33,6 +33,11 @@ export class HeroDetailComponent implements OnInit {
     goBack(): void {
         this.location.back();
     }
+
+    save(): void {
+        this.heroService.update(this.hero).
+            then(() => this.goBack());
+    }
 }
 
 // vim: sw=4 et ts=2

@@ -75,4 +75,10 @@ button:disabled {
     border-radius: 4px 0 0 4px;
 }
 
-// vim: sw=4 et ts=2
+button.delete {
+  float:right;
+  margin-top: 2px;
+  margin-right: .8em;
+  background-color: gray !important;
+  color:white;
+}
