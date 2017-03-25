@@ -12,3 +12,5 @@ export const HEROES: Hero[] = [
     { id: 19, name: 'Magma' },
     { id: 20, name: 'Tornado' }
 ];
+
+// vim: sw=4 et ts=2

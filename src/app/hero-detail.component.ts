@@ -34,3 +34,5 @@ export class HeroDetailComponent implements OnInit {
         this.location.back();
     }
 }
+
+// vim: sw=4 et ts=2

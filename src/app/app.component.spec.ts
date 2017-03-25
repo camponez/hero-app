@@ -27,3 +27,5 @@ describe('AppComponent', () => {
     }));
 
 });
+
+// vim: sw=4 et ts=2

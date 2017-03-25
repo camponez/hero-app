@@ -17,3 +17,5 @@ export class HeroService {
     }
 
 }
+
+// vim: sw=4 et ts=2

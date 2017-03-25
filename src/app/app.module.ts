@@ -28,3 +28,5 @@ import { HeroService } from './hero.service';
 
 
 export class AppModule { }
+
+// vim: sw=4 et ts=2

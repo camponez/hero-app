@@ -38,3 +38,5 @@ export class HeroesComponent implements OnInit {
         this.router.navigate(['/detail', this.selectedHero.id]);
     }
 }
+
+// vim: sw=4 et ts=2

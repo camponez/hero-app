@@ -10,3 +10,5 @@ export class AppComponent {
 
     title = 'Tour of Heroes';
 }
+
+// vim: sw=4 et ts=2

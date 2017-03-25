@@ -18,3 +18,5 @@ const routes: Routes = [
 })
 
 export class AppRoutingModule {}
+
+// vim: sw=4 et ts=2

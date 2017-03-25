@@ -20,3 +20,5 @@ export class DashboardComponent implements OnInit {
 
     }
 }
+
+// vim: sw=4 et ts=2
